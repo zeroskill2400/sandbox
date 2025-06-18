@@ -35,7 +35,7 @@ const cards = [
     id: 6,
     name: "PRODUCT 6",
     price: "110,000원",
-    imageUrl: "https://picsum.photos/id/242/300/200",
+    imageUrl: "https://picsum.photos/id/245/300/200",
   },
 ];
 
